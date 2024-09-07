@@ -1,0 +1,12 @@
+{
+  "name": "@ignite-iframe-demo/vendor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  }
+}
